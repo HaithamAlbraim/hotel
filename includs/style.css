@@ -1,0 +1,56 @@
+h5{text-align: center;}
+/* .card-body{height:fit-content;}  */
+/* .card{width:80%;
+  
+  
+
+
+ 
+display: inline-block;}  */
+
+.welcome{
+  position: relative;
+  text-align: center;
+  color: white;
+  
+  height:600px;
+}
+.welcome-text{position: absolute; top:80px;
+  left: 18px;}
+  .trip_div{
+    display:flex ;
+     margin:32px 0px 32px 0px;
+    background-color: #cfc5c0;
+
+  }
+  .trip_p{
+    display:inline-block ; width:50%;
+    padding:4% ;
+
+  }
+  .trip_img{
+    display:inline-block ;border-radius:8px;
+  }
+  .foo{height:400px ; background-color:lightslategrey;}
+  .form-div-login{
+    border:2px solid bisque ;
+    height:500px ;
+    background-color: #e2d1eb;
+    padding:100px 20px ;
+    border-radius: 16px;
+    
+   
+  }
+  .form-div-signup{
+    border:2px solid bisque ;
+    height:500px ;
+    background-color: #e2d1eb;
+    padding:40px 20px ;
+    border-radius: 16px;
+   
+  }
+  #form_btn{
+    width:96% ;background-color:#c382ff
+  }
+  
+   
